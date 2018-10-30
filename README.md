@@ -27,6 +27,5 @@ Using 4 commands:
 
 ## DEMO
 
-<img src="https://github.com/robaboyd/liri-node-app/blob/master/liridemo.gif?raw=true
-" width="700" height="400">
+<img src="https://raw.githubusercontent.com/robaboyd/liri-node-app/master/liridemo.gif" width="700" height="400">
 
