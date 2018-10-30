@@ -24,3 +24,7 @@ Using 4 commands:
   Bands In Town API
   Node.js
   JS
+
+## DEMO
+
+![Demo][]
