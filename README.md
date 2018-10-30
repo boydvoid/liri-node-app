@@ -27,4 +27,4 @@ Using 4 commands:
 
 ## DEMO
 
-![Demo][https://github.com/robaboyd/liri-node-app/blob/master/liridemo.gif?raw=true]
+![][https://github.com/robaboyd/liri-node-app/blob/master/liridemo.gif?raw=true]
